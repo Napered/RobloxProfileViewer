@@ -6,6 +6,13 @@ Roblox 사용자 프로필 조회 프로그램입니다. 사용자 이름 또는
 
 본 프로그램은 ChatGPT 및 Codex 등의 AI 도구를 활용하여 100% AI 기반으로 개발되었습니다. 프로그램의 코드 작성, 수정 및 디버깅 과정에 AI를 사용했으며, 개발자의 기획과 지시에 따라 제작되었습니다.
 
+# 실행 환경 및 런타임 설치 | System Requirements & Runtime
+
+- **한국어:** Windows 10/11 (64비트) 및 .NET 10 Desktop Runtime이 필요합니다.
+- **English:** Windows 10/11 (64-bit) and .NET 10 Desktop Runtime are required.
+
+- [**.NET 10 Desktop Runtime 다운로드 | Download .NET 10 Desktop Runtime (x64)**](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.15/windowsdesktop-runtime-10.0.15-win-x64.exe)
+
 ## 주요 기능
 
 - Roblox 사용자 이름 및 ID 검색
