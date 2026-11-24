@@ -2,6 +2,10 @@
 
 Roblox 사용자 프로필 조회 프로그램입니다. 사용자 이름 또는 ID를 입력하여 공개 프로필과 관련 정보를 간편하게 확인할 수 있습니다.
 
+# AI 사용 안내
+
+본 프로그램은 ChatGPT 및 Codex 등의 AI 도구를 활용하여 100% AI 기반으로 개발되었습니다. 프로그램의 코드 작성, 수정 및 디버깅 과정에 AI를 사용했으며, 개발자의 기획과 지시에 따라 제작되었습니다.
+
 ## 주요 기능
 
 - Roblox 사용자 이름 및 ID 검색
@@ -35,6 +39,10 @@ Roblox 사용자 프로필 조회 프로그램입니다. 사용자 이름 또는
 # English
 
 RobloxProfileViewer is a tool that allows users to easily look up public Roblox profiles and related information using a username or user ID.
+
+# AI Usage Disclosure
+
+This application was developed entirely using AI tools, including ChatGPT and Codex. AI was used throughout the code generation, modification, and debugging process, based on the developer's planning and instructions.
 
 ## Key Features
 
